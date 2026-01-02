@@ -1,0 +1,22 @@
+.button-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.button-grid .btn {
+  display: block;
+  padding: 1rem;
+  text-align: center;
+  background: #2d6cdf;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: background 0.2s ease;
+}
+
+.button-grid .btn:hover {
+  background: #1f4fb2;
+}
