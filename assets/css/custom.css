@@ -23,3 +23,29 @@
 .button-grid a.btn:hover {
   background-color: #000000 !important;
 }
+
+
+/* Images */
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0.5rem 0;
+}
+
+.post-content figure {
+  margin: 0 0 1rem;
+}
+
+.post-content figcaption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.25rem;
+}
+
+img.thumb {
+  width: 120px;
+  height: auto;
+  object-fit: cover;
+  margin-right: 0.5rem;
+}
