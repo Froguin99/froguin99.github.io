@@ -2,7 +2,7 @@
 .button-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1rem;
+  gap: 1rem; 
   margin-top: 2rem;
 }
 
@@ -19,7 +19,7 @@
   transition: background-color 0.2s ease;
 }
 
-/* Hover */
+/* Hover effect */
 .button-grid a.btn:hover {
   background-color: #000000 !important;
 }

@@ -25,6 +25,7 @@ Image can be seen here:
 
 
 # Automatic site map test
+
 <div class="button-grid">
   {% for post in site.posts %}
     <a href="{{ post.url | relative_url }}" class="btn">
