@@ -26,26 +26,28 @@
 
 
 /* Images */
-.post-content img {
+.post-figure {
+  margin: 1rem 0;
+  text-align: center;
+}
+
+.post-figure img {
+  display: block;
+  margin: 0 auto;
   max-width: 100%;
   height: auto;
-  display: block;
-  margin: 0.5rem 0;
+  /* default width: change as needed per image via class or inline style */
+  width: 480px; /* safe default for blog content; will shrink on small screens */
 }
 
-.post-content figure {
-  margin: 0 0 1rem;
-}
-
-.post-content figcaption {
-  font-size: 0.9rem;
+.post-figure figcaption {
+  margin-top: 0.35rem;
+  font-size: 0.92rem;
   color: #666;
-  margin-top: 0.25rem;
+  text-align: center;
 }
 
-img.thumb {
-  width: 120px;
-  height: auto;
-  object-fit: cover;
-  margin-right: 0.5rem;
-}
+/* Utility classes for different sizes */
+.post-figure.small img  { width: 240px; }
+.post-figure.medium img { width: 480px; }
+.post-figure.large img  { width: 800px; max-width: 100%; }
