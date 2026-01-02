@@ -7,4 +7,17 @@ title: Home
 
 This is my personal blog.
 
-You can edit this page in `index.md`.
+# Insert title here
+
+Here is some text
+
+## This is a subsection
+
+- it can have many points
+- which look like this
+
+# This section will host an image!
+
+Image can be seen here: 
+
+
