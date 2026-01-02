@@ -23,15 +23,8 @@ Here is some text
 Image can be seen here: 
 
 
-# testing site map
 
-<div class="button-grid">
-  <a href="/02-01-2026_first_post.html" class="btn">My First Post</a>
-  <a href="/2026/01/05/second-post.html" class="btn">Second Post</a>
-  <a href="/about.html" class="btn">About</a>
-</div>
-
-# auto test
+# Automatic site map test
 <div class="button-grid">
   {% for post in site.posts %}
     <a href="{{ post.url | relative_url }}" class="btn">
