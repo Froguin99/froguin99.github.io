@@ -1,9 +1,20 @@
 ---
 layout: default
-title: "My Second Post"
-date: 2026-01-02 09:00:00 +0000
+title: "Austria"
+date: 2026-01-20 20:00:00 +0000
 ---
 
-This is my second blog post in one day!.
+# Zillertal Valley 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+After strong resistance from Jon (no “oui oui hon hon monsieur” allowed), we settled on Mayrhofn in Austria for our first ski trip outside of anywhere which speaks either Scots or French. Despite a  drought for much of December, we arrived to a reasonable top up of snow, making even the valley floor feel wintery. Not exactly hero conditions, but enough fresh stuff to keep things interesting. It also turned out that Austrians, along with the Dutch and Germans there, seem to be allergic to leaving the pistes, leaving plenty of fresh tracks to be had. We stayed in an appartment in a farm house, just outside the town. The cows in the barn nextdoor look rather fed up with being stuck inside, although I'm not sure of their skiing ability.
+
+
+The Zillertal Valley is split into roughly 3 main zones: Mayrhofen, Zillertal and Kaltenbach. With how the trains and buses opperate in the area, you spend a day at each at a time. The advantage of this is every day gets to be a day of exploring, and you aren't using the same runs to get out and back. Each area also has it's own characteristic. Mayrhofen is probably the most boring of the lot (at least without a mega dump of snow). Most of the runs funnel down into the bowl around the Tux cable car, which are mostly wide motorway pistes which are fun first thing but lose their appeal later in the day. The exception to this is going down the Eggalm, which has some fantastic reds through the trees with interesting changes of directions (and big rollers to pop off). Despite this all sounding like a complaint, the area is still very good fun. Steep and deep was to be had under the aforementioned Tux cablecar, which we particually enjoyed in Monday's light snow.
+
+Zillertal arena was a personal favorite. The area here is made up of many valleys and towns, and thus there is a real sense of travel. Because of the spread out nature, it also seems to stay untracked. Me and George had some of our best turns of the trip as the sun was getting to a low angle on the Tuesday. And once finished with the day, there is the highlight of watching the punters trying to get down the final pitches of the steep, icy and very long final piste. Here the apres-ski bar faces the slope to provide excellent entertainment to all who've made it down in one piece already (or down-loaded).
+
+Kaltenbach remined me very much of Les Arcs, with many lifts facing the same aspect along the mountain. These are huge pistes with good pockets of steep and fresh snow to be had under the lifts, but the stand-out of the area are the other valleys attached to the back of it. Some excellent boot-packing and "backcountry" exploring were had of these. The freeride zone off the 8 person chair at the far side of resort was full of rocks and lips to pop off too. Probably the best area to go to if there is fresh snow. The black return run back to the valley floor was also excellent as there is no lift at the bottom, so people only ever use it to go home, meaning you're getting corduroy at half four in the afternoon.
+
+The final area to discuss is the Hintertux Glacier, which is a short bus ride from Eggalm or a long bus ride from Mayrhofen. We had wall to wall sunshine up there, but would probably be grim in bad weather. Again here the locals had hardly skied anything other than the piste, which provided hours of entertainment. The lifts are all huge so you get big vertical up and down in each run (and heated seats!).
+
+Our final day revolved around walking around Innsbruck, which has to the city with the best back-drop in the world. Why didn't I try and do a placement here?!
