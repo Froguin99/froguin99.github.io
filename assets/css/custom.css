@@ -58,3 +58,9 @@
   text-align: center;
   font-weight: 700;
 }
+
+
+/* Swipy photos */
+.post-gallery { display: grid; grid-template-columns: repeat(auto-fit,minmax(140px,1fr)); gap: 0.5rem; margin: 0 0 1.25rem; }
+.post-gallery img { width:100%; height:auto; display:block; border-radius:6px; object-fit:cover; }
+.post-gallery a { display:block; }
