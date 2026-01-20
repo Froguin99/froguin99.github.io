@@ -64,3 +64,8 @@
 .post-gallery { display: grid; grid-template-columns: repeat(auto-fit,minmax(140px,1fr)); gap: 0.5rem; margin: 0 0 1.25rem; }
 .post-gallery img { width:100%; height:auto; display:block; border-radius:6px; object-fit:cover; }
 .post-gallery a { display:block; }
+
+/* show a single thumbnail per gallery and hide the rest */
+.post-gallery.single-thumb { max-width: 520px; margin: 0.75rem auto; }
+.post-gallery.single-thumb img { width:100%; height:auto; display:block; border-radius:6px; }
+.post-gallery.single-thumb a.hidden { display:none; }

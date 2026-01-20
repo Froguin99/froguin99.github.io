@@ -10,7 +10,22 @@ date: 2026-01-20 18:40:00 +0000
 
 After strong resistance from Jon (no “oui oui hon hon monsieur” allowed), we settled on Mayrhofn in Austria for our first ski trip outside of anywhere which speaks either Scots or French. Despite a  drought for much of December, we arrived to a reasonable top up of snow, making even the valley floor feel wintery. Not exactly hero conditions, but enough fresh stuff to keep things interesting. It also turned out that Austrians, along with the Dutch and Germans there, seem to be allergic to leaving the pistes, leaving plenty of fresh tracks to be had. We stayed in an appartment in a farm house, just outside the town. The cows in the barn nextdoor look rather fed up with being stuck inside, although I'm not sure of their skiing ability.
 
-% photo section
+<section>
+### Ziller Chillers
+<div class="post-gallery single-thumb">
+  <a href="{{ '/assets/images/2026-01-02-second-post/IMG_7089.jpg' | relative_url }}"
+     class="glightbox"
+     data-gallery="section-1"
+     data-title="Ziller Chillers — ridge view"
+     data-description="Crisp morning on the ridge.">
+    <img src="{{ '/assets/images/2026-01-02-second-post/IMG_7089.jpg' | relative_url }}" alt="Ziller Chillers" />
+  </a>
+
+  <!-- hidden images still belong to the same gallery -->
+  <a href="{{ '/assets/images/2026-01-02-second-post/IMG_7092.jpg' | relative_url }}" class="glightbox hidden" data-gallery="section-1" data-title="Morning 2"></a>
+  <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260111_103328919.jpg' | relative_url }}" class="glightbox hidden" data-gallery="section-1" data-title="Morning 3"></a>
+</div>
+</section>
 
 The Zillertal Valley is split into roughly 3 main zones: Mayrhofen, Zillertal and Kaltenbach. With how the trains and buses opperate in the area, you spend a day at each at a time. The advantage of this is every day gets to be a day of exploring, and you aren't using the same runs to get out and back. Each area also has it's own characteristic. Mayrhofen is probably the most boring of the lot (at least without a mega dump of snow). Most of the runs funnel down into the bowl around the Tux cable car, which are mostly wide motorway pistes which are fun first thing but lose their appeal later in the day. The exception to this is going down the Eggalm, which has some fantastic reds through the trees with interesting changes of directions (and big rollers to pop off). Despite this all sounding like a complaint, the area is still very good fun. Steep and deep was to be had under the aforementioned Tux cablecar, which we particually enjoyed in Monday's light snow.
 
