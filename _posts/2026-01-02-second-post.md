@@ -17,7 +17,7 @@ After strong resistance from Jon (no “oui oui hon hon monsieur” allowed), we
      data-gallery="section-1"
      data-title="Morning in the valley"
      data-description="Snow on trees :).">
-    <img src="{{ '/assets/images/2026-01-02-second-post/IMG_7089.jpg' | relative_url }}" alt="Ziller Chillers" />
+    <img src="{{ '/assets/images/2026-01-02-second-post/PXL_20260111_153732750.MP.jpg' | relative_url }}" alt="Ziller Chillers" />
   </a>
 
   <!-- hidden images still belong to the same gallery -->
@@ -59,7 +59,7 @@ Zillertal arena was a personal favorite. The area here is made up of many valley
      data-gallery="section-1"
      data-title="The Ziller Chillers"
      data-description="Lads">
-    <img src="{{ '/assets/images/2026-01-02-second-post/IMG_7089.jpg' | relative_url }}" alt="Ziller Chillers" />
+    <img src="{{ '/assets/images/2026-01-02-second-post/PXL_20260113_103908504.jpg' | relative_url }}" alt="Ziller Chillers" />
   </a>
 
   <!-- hidden images still belong to the same gallery -->
@@ -74,7 +74,7 @@ Kaltenbach remined me very much of Les Arcs, with many lifts facing the same asp
 
 <section>
 <div class="post-gallery single-thumb">
-  <a href="{{ '/assets/images/2026-01-02-second-post/IMG_7089.jpg' | relative_url }}"
+  <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260115_150329647.jpg' | relative_url }}"
      class="glightbox"
      data-gallery="section-1"
      data-title="Kaltenbach Sunset"
@@ -114,19 +114,20 @@ The final area we spend time is the Hintertux Glacier, which is a short bus ride
 Our final day revolved around walking around Innsbruck, which has to the city with the best back-drop in the world. Why didn't I try and do a placement here?!
 
 <section>
-### Hintertux
 <div class="post-gallery single-thumb">
-  <a href="{{ '/assets/images/2026-01-02-second-post/IMG_7089.jpg' | relative_url }}"
+  <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260117_112824430.jpg' | relative_url }}"
      class="glightbox"
      data-gallery="section-1"
-     data-title="Ziller Chillers — ridge view"
-     data-description="Crisp morning on the ridge.">
-    <img src="{{ '/assets/images/2026-01-02-second-post/IMG_7089.jpg' | relative_url }}" alt="Ziller Chillers" />
+     data-title="Innsbruck">
+    <img src="{{ '/assets/images/2026-01-02-second-post/PXL_20260117_112824430.jpg' | relative_url }}" alt="Innsbruck" />
   </a>
 
   <!-- hidden images still belong to the same gallery -->
-  <a href="{{ '/assets/images/2026-01-02-second-post/IMG_7092.jpg' | relative_url }}" class="glightbox hidden" data-gallery="section-1" data-title="Morning 2"></a>
-  <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260111_103328919.jpg' | relative_url }}" class="glightbox hidden" data-gallery="section-1" data-title="Morning 3"></a>
+  <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260117_131021442.jpg' | relative_url }}" class="glightbox hidden" data-gallery="section-1" data-title="Calling in the private jet"></a>
+  <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260117_091019933.jpg' | relative_url }}" class="glightbox hidden" data-gallery="section-1" data-title="I didn't win"></a>
+  <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260117_120539032.MP.jpg' | relative_url }}" class="glightbox hidden" data-gallery="section-1" data-title=""></a>
+  <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260117_111919295.jpg' | relative_url }}" class="glightbox hidden" data-gallery="section-1" data-title=""></a>
+  <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260117_142624775.jpg' | relative_url }}" class="glightbox hidden" data-gallery="section-1" data-title=""></a>
 </div>
 </section>
 
