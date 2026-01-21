@@ -69,3 +69,37 @@
 .post-gallery.single-thumb { max-width: 520px; margin: 0.75rem auto; }
 .post-gallery.single-thumb img { width:100%; height:auto; display:block; border-radius:6px; }
 .post-gallery.single-thumb a.hidden { display:none; }
+
+
+/* Center post content and justify text */
+.post-content {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.6;
+  hyphens: auto;
+}
+
+/* Keep figures centered */
+.post-figure {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+/* Caption: center and remove background/box */
+.post-figure figcaption,
+figcaption,
+.caption,
+.wp-caption-text {
+  text-align: center !important;
+  background: transparent !important;
+  padding: 0 !important;
+  margin-top: 0.35rem;
+  font-size: 0.92rem;
+  color: #666;
+  font-weight: 700;
+  border: none !important;
+  box-shadow: none !important;
+}
