@@ -15,8 +15,7 @@ After strong resistance from Jon (no “oui oui hon hon monsieur” allowed), we
   <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260111_153732750.MP.jpg' | relative_url }}"
      class="glightbox"
      data-gallery="section-1"
-     data-title="Morning in the valley"
-     data-description="Snow on trees :).">
+     data-title="Morning in the valley">
     <img src="{{ '/assets/images/2026-01-02-second-post/PXL_20260111_153732750.MP.jpg' | relative_url }}" alt="Ziller Chillers" />
   </a>
 
@@ -34,8 +33,7 @@ The Zillertal Valley is split into roughly 3 main zones: Mayrhofen, Zillertal an
   <a href="{{ '/assets/images/2026-01-02-second-post/IMG_7089.jpg' | relative_url }}"
      class="glightbox"
      data-gallery="section-1"
-     data-title="Happy chap"
-     data-description="Heated seats too">
+     data-title="Happy chap">
     <img src="{{ '/assets/images/2026-01-02-second-post/IMG_7089.jpg' | relative_url }}" alt="Ziller Chillers" />
   </a>
 
@@ -57,8 +55,7 @@ Zillertal arena was a personal favorite. The area here is made up of many valley
   <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260113_103908504.jpg' | relative_url }}"
      class="glightbox"
      data-gallery="section-1"
-     data-title="The Ziller Chillers"
-     data-description="Lads">
+     data-title="The Ziller Chillers">
     <img src="{{ '/assets/images/2026-01-02-second-post/PXL_20260113_103908504.jpg' | relative_url }}" alt="Ziller Chillers" />
   </a>
 
@@ -77,8 +74,7 @@ Kaltenbach remined me very much of Les Arcs, with many lifts facing the same asp
   <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260115_150329647.jpg' | relative_url }}"
      class="glightbox"
      data-gallery="section-1"
-     data-title="Kaltenbach Sunset"
-     data-description="Alexa play Sundowner by Fontaines D.C>">
+     data-title="Alexa play Sundowner by Fontaines D.C">
     <img src="{{ '/assets/images/2026-01-02-second-post/PXL_20260115_150329647.jpg' | relative_url }}" alt="Ziller Chillers" />
   </a>
 
@@ -97,8 +93,7 @@ The final area we spend time is the Hintertux Glacier, which is a short bus ride
   <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260116_120619993.jpg | relative_url }}"
      class="glightbox"
      data-gallery="section-1"
-     data-title="Big"
-     data-description="Very big">
+     data-title="Big da">
     <img src="{{ '/assets/images/2026-01-02-second-post/PXL_20260116_120619993.jpg' | relative_url }}" alt="Ziller Chillers" />
   </a>
 
@@ -111,7 +106,7 @@ The final area we spend time is the Hintertux Glacier, which is a short bus ride
 </div>
 </section>
 
-Our final day revolved around walking around Innsbruck, which has to the city with the best back-drop in the world. Why didn't I try and do a placement here?!
+Our final day revolved around walking around Innsbruck, which has to the city with the best back-drop in the world. I think by this point I'd exhausted everyone.
 
 <section>
 <div class="post-gallery single-thumb">
