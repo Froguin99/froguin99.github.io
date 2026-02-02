@@ -90,7 +90,7 @@ The final area we spend time is the Hintertux Glacier, which is a short bus ride
 
 <section>
 <div class="post-gallery single-thumb">
-  <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260116_120619993.jpg | relative_url }}"
+  <a href="{{ '/assets/images/2026-01-02-second-post/PXL_20260116_120619993.jpg' | relative_url }}"
      class="glightbox"
      data-gallery="section-1"
      data-title="Big da">
