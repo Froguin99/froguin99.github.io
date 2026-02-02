@@ -103,3 +103,14 @@ figcaption,
   border: none !important;
   box-shadow: none !important;
 }
+
+/* Random home image styling */
+.random-home-image {
+  display:block;
+  max-width:100%;
+  width:100%;
+  max-height:360px;
+  object-fit:cover;
+  margin: 0 0 1rem;
+  border-radius:6px;
+}
